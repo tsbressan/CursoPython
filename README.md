@@ -1,2 +1,2 @@
 # CursoPythonUnisinos
-Curso de Python
+Curso de Python na Unisinos 2019
