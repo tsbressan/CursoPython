@@ -15,7 +15,7 @@ Pandas: Análise e Estrutura de Dados</br>
 NumPy: Array, Matrix e outras funções principais</br>
 SciPy: processamento científico (álgebra linear entre outras)</br>
 Matplotlib: gráficos</br>
-Exercícios Práticos</br>
+Exercícios Práticos (IODP)</br>
 
 ## 25/01 a 29/01 - 17:00 às 20:00 (segunda a sexta: 3h diária)
 ## 30/01 = 9:00 às 11:00 (sábado: 2h)
