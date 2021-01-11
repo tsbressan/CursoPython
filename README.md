@@ -1,4 +1,4 @@
-# Curso Python Aplicado a geologia
+# Curso Python Aplicado a Geologia
 ## Ementa:
 O curso de Python envolve o desenvolvimento de códigos na linguagem de programação mais utilizada para análise e processamento de dados. O curso é ideal para profissionais iniciais ou mesmo aqueles que desejam rever conceitos e utilizações da linguagem Python. Será abordado conceitos iniciais da linguagem Python, histórico, características, instalação, execução, estrutura inicial da linguagem, tipo de dados, estrutura de controle e repetição, bem como exemplos práticos de utilização de dados geofísicos nas bibliotecas Numpy, Pandas, Scipy e Matplotlib.
 
