@@ -20,6 +20,6 @@ Exercícios Práticos</br>
 ## 25/01 a 29/01 - 17:00 às 20:00 (segunda a sexta: 3h diária)
 ## 30/01 = 9:00 às 11:00 (sábado: 2h)
 ## 01/02 = 17:00 às 20:00 (segunda: 3h)
-### Sala C08 100l
+
 
 
