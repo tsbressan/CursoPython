@@ -1,4 +1,4 @@
-# Curso Python Unisinos
+# Curso Python
 ## Ementa:
 O curso de Python envolve o desenvolvimento de códigos na linguagem de programação mais utilizada para análise e processamento de dados. O curso é ideal para profissionais iniciais ou mesmo aqueles que desejam rever conceitos e utilizações da linguagem Python. Será abordado conceitos iniciais da linguagem Python, histórico, características, instalação, execução, estrutura inicial da linguagem, tipo de dados, estrutura de controle e repetição, bem como exemplos práticos de utilização de dados geofísicos nas bibliotecas Numpy, Pandas, Scipy e Matplotlib.
 
@@ -17,7 +17,9 @@ SciPy: processamento científico (álgebra linear entre outras)</br>
 Matplotlib: gráficos</br>
 Exercícios Práticos</br>
 
-## 25, 26 e 27/09/2019
+## 25/01 a 29/01 - 17:00 às 20:00 (segunda a sexta: 3h diária)
+## 30/01 = 9:00 às 11:00 (sábado: 2h)
+## 01/02 = 17:00 às 20:00 (segunda: 3h)
 ### Sala C08 100l
 
 
