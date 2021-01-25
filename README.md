@@ -17,9 +17,9 @@ SciPy: processamento científico (álgebra linear entre outras)</br>
 Matplotlib: gráficos</br>
 Exercícios Práticos (IODP)</br>
 
-## 25/01 a 29/01 - 17:00 às 20:00 (segunda a sexta: 3h diária)
-## 30/01 = 9:00 às 11:00 (sábado: 2h)
-## 01/02 = 17:00 às 20:00 (segunda: 3h)
+## 25/01 a 29/01 - 17:00 às 20:00 (segunda a sexta)
+## 30/01 = 9:00 às 11:00 (sábado)
+## 01/02 = 17:00 às 20:00 (segunda)
 
 
 
