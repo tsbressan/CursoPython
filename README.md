@@ -18,5 +18,5 @@ Matplotlib: gráficos</br>
 Exercícios Práticos (IODP)</br>
 
 
-
+Link do encontro (06-07): https://meet.google.com/oqd-fjsx-gia
 
